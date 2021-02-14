@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.exe
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.deps.json
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.runtimeconfig.json
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.dll
+C:\Users\HP\source\repos\Isoceles\Isoceles\bin\Debug\netcoreapp3.1\Isoceles.pdb
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.AssemblyInfo.cs
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.dll
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.pdb
+C:\Users\HP\source\repos\Isoceles\Isoceles\obj\Debug\netcoreapp3.1\Isoceles.genruntimeconfig.cache
